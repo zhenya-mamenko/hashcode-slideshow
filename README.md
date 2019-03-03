@@ -1,5 +1,5 @@
 # Slideshow
-Google Hashcode, Feb 28 2019
+**Google Hashcode, Feb 28 2019
 
 It was my first hashcode event, our team MK-ZM (Dmitro Rybalchenko and me) got 1st place at our hub (42 Silicon Valley) and 405th at full scoreboard (https://hashcodejudge.withgoogle.com/scoreboard)
 
